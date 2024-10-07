@@ -1,0 +1,525 @@
+Scanned On         :      11-12-2023 15:24:32
+Scan Type           :       Folder Scan
+Files Scanned      :       4
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      11-12-2023 15:44:30
+Scan Type           :       Folder Scan
+Files Scanned      :       5
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      11-12-2023 15:53:34
+Scan Type           :       Folder Scan
+Files Scanned      :       5
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      11-12-2023 15:59:25
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      11-12-2023 16:02:43
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      11-12-2023 16:04:01
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:29:15
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:32:03
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:40:00
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:41:31
+Scan Type           :       Folder Scan
+Files Scanned      :       5
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:42:28
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:47:13
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:49:34
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:53:54
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:55:40
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:55:50
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:56:03
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:57:05
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:58:50
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 13:59:55
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 14:08:46
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 14:11:31
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 14:13:12
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      12-12-2023 14:16:15
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 11:43:06
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 11:48:24
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 11:50:17
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 11:52:10
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 11:55:35
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 11:59:52
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 12:05:20
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 13:56:13
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:04:12
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:04:48
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:13:28
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:28:53
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:29:34
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:32:22
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:32:47
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:37:00
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:37:26
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:38:04
+Scan Type           :       Folder Scan
+Files Scanned      :       6
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:42:53
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:45:17
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:46:22
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:49:20
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:49:42
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:53:42
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:55:05
+Scan Type           :       Folder Scan
+Files Scanned      :       6
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:56:40
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:58:44
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 14:59:55
+Scan Type           :       Folder Scan
+Files Scanned      :       2
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:01:34
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       2
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:07:19
+Scan Type           :       Folder Scan
+Files Scanned      :       2
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:20:48
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:23:43
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       1
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:27:14
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       2
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:50:55
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 15:51:53
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      13-12-2023 16:09:44
+Scan Type           :       Folder Scan
+Files Scanned      :       7
+Virus Found        :       2
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:12:39
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:16:08
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:20:08
+Scan Type           :       Folder Scan
+Files Scanned      :       22
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:26:50
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:29:14
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:37:53
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      17-01-2024 23:39:36
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 00:33:28
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 00:35:01
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 00:37:10
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 00:39:09
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 00:57:13
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 00:58:36
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      18-01-2024 01:21:34
+Scan Type           :       File Scan
+Files Scanned      :       1
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+
+Scanned On         :      07-10-2024 14:17:46
+Scan Type           :       File Scan
+Files Scanned      :       0000
+Virus Found        :       0
+Scan Result         :       Scan Complete
+
+

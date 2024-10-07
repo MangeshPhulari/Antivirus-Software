@@ -1,0 +1,90 @@
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.exe
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.deps.json
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.runtimeconfig.json
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.dll
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form1.resources
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.dll
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\refint\project phase 1.dll
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.genruntimeconfig.cache
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\ref\project phase 1.dll
+C:\Users\DELL\Documents\C# (sharp)\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Properties.Resources.resources
+C:\Users\DELL\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.exe
+C:\Users\DELL\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.deps.json
+C:\Users\DELL\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.runtimeconfig.json
+C:\Users\DELL\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.dll
+C:\Users\DELL\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form1.resources
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Properties.Resources.resources
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.dll
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\refint\project phase 1.dll
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\ref\project phase 1.dll
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.dll
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\refint\project phase 1.dll
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\MGM\Downloads\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.exe
+C:\Users\MGM\Downloads\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.deps.json
+C:\Users\MGM\Downloads\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.runtimeconfig.json
+C:\Users\MGM\Downloads\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.dll
+C:\Users\MGM\Downloads\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form1.resources
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Properties.Resources.resources
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.GenerateResource.cache
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfoInputs.cache
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfo.cs
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.genruntimeconfig.cache
+C:\Users\MGM\Downloads\project phase 1\project phase 1\obj\Debug\net6.0-windows\ref\project phase 1.dll
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form2.resources
+C:\Users\MGM\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.exe
+C:\Users\MGM\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.deps.json
+C:\Users\MGM\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.runtimeconfig.json
+C:\Users\MGM\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.dll
+C:\Users\MGM\Desktop\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form1.resources
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form2.resources
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Properties.Resources.resources
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.GenerateResource.cache
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfo.cs
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.dll
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\refint\project phase 1.dll
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.pdb
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.genruntimeconfig.cache
+C:\Users\MGM\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\ref\project phase 1.dll
+C:\Users\DELL\Desktop\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.deletepop.resources
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.dll
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\refint\project phase 1.dll
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.pdb
+C:\Mangesh\final exam project\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.exe
+C:\Mangesh\final exam project\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.deps.json
+C:\Mangesh\final exam project\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.runtimeconfig.json
+C:\Mangesh\final exam project\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.dll
+C:\Mangesh\final exam project\project phase 1\project phase 1\bin\Debug\net6.0-windows\project phase 1.pdb
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.deletepop.resources
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form1.resources
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Form2.resources
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project_phase_1.Properties.Resources.resources
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.GenerateResource.cache
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfoInputs.cache
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.AssemblyInfo.cs
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.csproj.CoreCompileInputs.cache
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\project phase 1.genruntimeconfig.cache
+C:\Mangesh\final exam project\project phase 1\project phase 1\obj\Debug\net6.0-windows\ref\project phase 1.dll
