@@ -10,6 +10,6 @@ database of this project which is used for detection of the virus. This project 
 detect pre-pended and appended types of viruses which are attached at either at the
 front of the program or at the end part of the program.
 
-# Output
+# GUI
 
 ![Screenshot 2024-10-07 135841](https://github.com/user-attachments/assets/2ed884bd-684a-4889-a5ec-5ed167ccb6ef)
